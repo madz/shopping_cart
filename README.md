@@ -13,3 +13,14 @@ Open command line/terminal go to the root folder of the project and type the fol
 flutter pub get
 
 flutter run -d all
+
+## Screenshots
+</span>
+<span style="display:flex;flex-direction:row;">
+        <img src="screenshots/android.png" alt="screen_01" height="400" />
+       
+</span>
+
+<span style="display:flex;flex-direction:row;">
+        <img src="screenshots/ios.png" alt="screen_01" height="400" />
+</span>
